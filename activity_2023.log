@@ -8,3 +8,4 @@
 2023 Activity at 2023-01-02T14:33:49: Update README with new performance metrics
 2023 Activity at 2023-01-02T14:22:56: Add support for transformer-based models
 2023 Activity at 2023-01-02T11:50:48: Improve model serialization and loading
+2023 Activity at 2023-01-03T11:22:10: Optimize GPU memory allocation
