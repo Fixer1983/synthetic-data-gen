@@ -22,3 +22,4 @@ Robust Activity at 2023-01-20T13:34:27: Update README with new performance metri
 Robust Activity at 2023-01-20T12:39:11: Sync with upstream repository changes
 Robust Activity at 2023-01-24T15:44:37: Address code review feedback
 Robust Activity at 2023-01-24T14:25:23: Implement early stopping in training loop
+Robust Activity at 2023-01-24T12:52:15: Add support for transformer-based models
