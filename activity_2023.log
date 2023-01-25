@@ -65,3 +65,4 @@
 2023 Activity at 2023-01-20T11:46:14: Benchmark inference latency across devices
 2023 Activity at 2023-01-24T18:29:56: Fix bug in loss function calculation
 2023 Activity at 2023-01-24T15:44:56: Add support for transformer-based models
+2023 Activity at 2023-01-25T17:18:44: Improve documentation for API endpoints
