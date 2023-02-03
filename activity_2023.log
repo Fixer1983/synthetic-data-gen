@@ -93,3 +93,4 @@
 2023 Activity at 2023-02-01T16:41:06: Benchmark inference latency across devices
 2023 Activity at 2023-02-01T16:14:31: Sync with upstream repository changes
 2023 Activity at 2023-02-03T12:29:04: Update README with new performance metrics
+2023 Activity at 2023-02-03T14:11:17: Optimize GPU memory allocation
