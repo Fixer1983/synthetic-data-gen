@@ -48,3 +48,4 @@ Robust Activity at 2023-02-15T11:32:16: Benchmark inference latency across devic
 Robust Activity at 2023-02-15T17:55:53: Add support for multi-GPU training
 Robust Activity at 2023-02-15T13:11:44: Initial prototype for feature extraction
 Robust Activity at 2023-02-16T17:22:18: Add support for transformer-based models
+Robust Activity at 2023-02-16T14:48:53: Improve model serialization and loading
