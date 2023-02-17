@@ -54,3 +54,4 @@ Robust Activity at 2023-02-17T18:57:08: Add support for transformer-based models
 Robust Activity at 2023-02-17T11:39:28: Update README with new performance metrics
 Robust Activity at 2023-02-17T16:01:44: Optimize GPU memory allocation
 Robust Activity at 2023-02-17T14:13:11: Fix race condition in data pipeline
+Robust Activity at 2023-02-17T16:43:07: Improve documentation for API endpoints
