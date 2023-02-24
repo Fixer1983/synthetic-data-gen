@@ -155,3 +155,4 @@
 2023 Activity at 2023-02-23T11:44:16: Refactor data loader for faster training
 2023 Activity at 2023-02-23T15:33:42: Address code review feedback
 2023 Activity at 2023-02-24T10:01:22: Update README with new performance metrics
+2023 Activity at 2023-02-24T12:10:10: Add support for multi-GPU training
