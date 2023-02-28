@@ -164,3 +164,4 @@
 2023 Activity at 2023-02-28T13:34:37: Benchmark inference latency across devices
 2023 Activity at 2023-02-28T09:40:15: Implement early stopping in training loop
 2023 Activity at 2023-02-28T13:45:10: Initial prototype for feature extraction
+2023 Activity at 2023-02-28T11:42:09: Add support for multi-GPU training
