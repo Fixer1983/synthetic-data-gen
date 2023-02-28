@@ -161,3 +161,4 @@
 2023 Activity at 2023-02-24T12:20:16: Address code review feedback
 2023 Activity at 2023-02-27T19:38:55: Implement early stopping in training loop
 2023 Activity at 2023-02-28T18:45:37: Improve documentation for API endpoints
+2023 Activity at 2023-02-28T13:34:37: Benchmark inference latency across devices
