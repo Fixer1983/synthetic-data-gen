@@ -166,3 +166,4 @@
 2023 Activity at 2023-02-28T13:45:10: Initial prototype for feature extraction
 2023 Activity at 2023-02-28T11:42:09: Add support for multi-GPU training
 2023 Activity at 2023-03-01T19:38:43: Improve model serialization and loading
+2023 Activity at 2023-03-01T13:00:59: Update README with new performance metrics
