@@ -83,3 +83,4 @@ Robust Activity at 2023-03-07T13:14:54: Add support for transformer-based models
 Robust Activity at 2023-03-07T13:53:44: Fix bug in loss function calculation
 Robust Activity at 2023-03-09T13:08:58: Add support for transformer-based models
 Robust Activity at 2023-03-09T10:06:30: Optimize GPU memory allocation
+Robust Activity at 2023-03-09T10:09:37: Benchmark inference latency across devices
