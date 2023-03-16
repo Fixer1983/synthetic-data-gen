@@ -210,3 +210,4 @@
 2023 Activity at 2023-03-16T09:10:20: Add support for multi-GPU training
 2023 Activity at 2023-03-16T11:57:04: Optimize GPU memory allocation
 2023 Activity at 2023-03-16T17:45:53: Add support for transformer-based models
+2023 Activity at 2023-03-16T10:28:15: Implement early stopping in training loop
