@@ -220,3 +220,4 @@
 2023 Activity at 2023-03-23T14:47:48: Add support for transformer-based models
 2023 Activity at 2023-03-23T09:18:25: Benchmark inference latency across devices
 2023 Activity at 2023-03-23T17:12:06: Merge feature branch into main
+2023 Activity at 2023-03-23T14:19:30: Optimize GPU memory allocation
