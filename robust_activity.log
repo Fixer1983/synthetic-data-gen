@@ -113,3 +113,4 @@ Robust Activity at 2023-03-27T17:12:06: Update README with new performance metri
 Robust Activity at 2023-03-27T14:37:21: Address code review feedback
 Robust Activity at 2023-03-28T18:17:08: Initial prototype for feature extraction
 Robust Activity at 2023-03-28T13:34:34: Implement early stopping in training loop
+Robust Activity at 2023-03-28T13:40:20: Improve model serialization and loading
