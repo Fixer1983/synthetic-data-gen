@@ -239,3 +239,4 @@
 2023 Activity at 2023-03-28T10:01:57: Fix bug in loss function calculation
 2023 Activity at 2023-03-28T15:07:24: Improve model serialization and loading
 2023 Activity at 2023-03-28T17:23:22: Fix bug in loss function calculation
+2023 Activity at 2023-03-28T16:43:31: Add unit tests for core modules
