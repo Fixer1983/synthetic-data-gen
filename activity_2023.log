@@ -251,3 +251,4 @@
 2023 Activity at 2023-03-31T10:43:16: Improve model serialization and loading
 2023 Activity at 2023-03-31T10:37:44: Refactor data loader for faster training
 2023 Activity at 2023-03-31T15:04:32: Update README with new performance metrics
+2023 Activity at 2023-03-31T18:04:53: Add support for transformer-based models
