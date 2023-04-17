@@ -157,3 +157,4 @@ Robust Activity at 2023-04-14T09:17:38: Initial prototype for feature extraction
 Robust Activity at 2023-04-17T11:59:40: Optimize GPU memory allocation
 Robust Activity at 2023-04-17T14:25:04: Update dependencies to latest stable versions
 Robust Activity at 2023-04-17T11:34:12: Add unit tests for core modules
+Robust Activity at 2023-04-17T12:12:28: Fix bug in loss function calculation
