@@ -178,3 +178,4 @@ Robust Activity at 2023-04-21T13:21:46: Add support for transformer-based models
 Robust Activity at 2023-04-21T17:21:05: Implement early stopping in training loop
 Robust Activity at 2023-04-21T12:32:48: Update dependencies to latest stable versions
 Robust Activity at 2023-04-21T12:30:47: Improve documentation for API endpoints
+Robust Activity at 2023-04-21T10:43:12: Optimize GPU memory allocation
