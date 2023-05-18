@@ -221,3 +221,4 @@ Robust Activity at 2023-05-15T17:55:25: Refactor data loader for faster training
 Robust Activity at 2023-05-15T18:58:12: Fix race condition in data pipeline
 Robust Activity at 2023-05-16T13:08:56: Fix bug in loss function calculation
 Robust Activity at 2023-05-16T14:03:40: Refactor data loader for faster training
+Robust Activity at 2023-05-18T09:16:06: Update README with new performance metrics
