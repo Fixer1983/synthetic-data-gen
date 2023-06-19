@@ -261,3 +261,4 @@ Robust Activity at 2023-06-16T09:59:50: Fix bug in loss function calculation
 Robust Activity at 2023-06-16T11:17:24: Improve documentation for API endpoints
 Robust Activity at 2023-06-19T17:05:37: Add support for transformer-based models
 Robust Activity at 2023-06-19T15:39:41: Enhance logging for debugging production issues
+Robust Activity at 2023-06-19T16:56:41: Add support for multi-GPU training
