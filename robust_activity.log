@@ -309,3 +309,4 @@ Robust Activity at 2023-07-14T17:01:01: Implement early stopping in training loo
 Robust Activity at 2023-07-14T16:39:22: Add support for transformer-based models
 Robust Activity at 2023-07-14T15:54:12: Refactor data loader for faster training
 Robust Activity at 2023-07-14T11:59:34: Fix race condition in data pipeline
+Robust Activity at 2023-07-17T16:26:41: Initial prototype for feature extraction
