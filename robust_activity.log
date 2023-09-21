@@ -427,3 +427,4 @@ Robust Activity at 2023-09-19T16:30:06: Merge feature branch into main
 Robust Activity at 2023-09-20T12:05:07: Refactor data loader for faster training
 Robust Activity at 2023-09-20T10:17:46: Refactor data loader for faster training
 Robust Activity at 2023-09-20T10:09:28: Clean up unused variables and functions
+Robust Activity at 2023-09-21T14:34:25: Improve model serialization and loading
