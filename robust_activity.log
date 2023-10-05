@@ -463,3 +463,4 @@ Robust Activity at 2023-10-02T09:41:22: Benchmark inference latency across devic
 Robust Activity at 2023-10-02T18:23:15: Address code review feedback
 Robust Activity at 2023-10-05T14:48:59: Improve documentation for API endpoints
 Robust Activity at 2023-10-05T15:29:24: Optimize GPU memory allocation
+Robust Activity at 2023-10-05T13:43:40: Add support for transformer-based models
