@@ -521,3 +521,4 @@ Robust Activity at 2023-10-31T09:58:13: Clean up unused variables and functions
 Robust Activity at 2023-10-31T14:05:20: Improve model serialization and loading
 Robust Activity at 2023-10-31T11:09:15: Add support for transformer-based models
 Robust Activity at 2023-10-31T16:54:51: Add unit tests for core modules
+Robust Activity at 2023-10-31T14:29:26: Improve documentation for API endpoints
