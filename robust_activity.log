@@ -565,3 +565,4 @@ Robust Activity at 2023-11-24T13:33:54: Implement early stopping in training loo
 Robust Activity at 2023-11-24T16:54:20: Benchmark inference latency across devices
 Robust Activity at 2023-11-24T17:13:32: Optimize neural network architecture
 Robust Activity at 2023-11-28T14:58:22: Improve model serialization and loading
+Robust Activity at 2023-11-28T14:37:17: Add unit tests for core modules
