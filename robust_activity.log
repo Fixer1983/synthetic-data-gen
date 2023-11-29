@@ -568,3 +568,4 @@ Robust Activity at 2023-11-28T14:58:22: Improve model serialization and loading
 Robust Activity at 2023-11-28T14:37:17: Add unit tests for core modules
 Robust Activity at 2023-11-28T18:39:45: Improve documentation for API endpoints
 Robust Activity at 2023-11-28T18:35:18: Benchmark inference latency across devices
+Robust Activity at 2023-11-29T12:57:33: Fix bug in loss function calculation
