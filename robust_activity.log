@@ -618,3 +618,4 @@ Robust Activity at 2023-12-27T11:12:37: Refactor data loader for faster training
 Robust Activity at 2023-12-27T15:23:33: Improve model serialization and loading
 Robust Activity at 2023-12-27T10:32:25: Improve model serialization and loading
 Robust Activity at 2023-12-27T17:58:56: Add unit tests for core modules
+Robust Activity at 2023-12-29T09:25:50: Optimize GPU memory allocation
