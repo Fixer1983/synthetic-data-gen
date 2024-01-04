@@ -5,3 +5,4 @@
 2024 Activity at 2024-01-03T15:35:44: Improve documentation for REST API endpoints
 2024 Activity at 2024-01-03T13:18:32: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-01-04T12:36:20: Optimize neural network architecture for better performance
+2024 Activity at 2024-01-04T10:03:54: Add support for multi-GPU training via DDP
