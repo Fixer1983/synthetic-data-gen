@@ -44,3 +44,4 @@
 2024 Activity at 2024-01-17T11:54:02: Refactor data loading pipeline for higher throughput
 2024 Activity at 2024-01-17T11:48:39: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-01-17T19:23:39: Benchmark inference latency across multiple devices
+2024 Activity at 2024-01-17T12:43:27: Add support for transformer-based models in inference
