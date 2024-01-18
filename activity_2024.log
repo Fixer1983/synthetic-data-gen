@@ -49,3 +49,4 @@
 2024 Activity at 2024-01-18T09:52:04: Optimize GPU memory allocation for large models
 2024 Activity at 2024-01-18T15:16:51: Update README with latest performance benchmarks
 2024 Activity at 2024-01-18T16:59:29: Improve model serialization and loading efficiency
+2024 Activity at 2024-01-18T11:05:40: Benchmark inference latency across multiple devices
