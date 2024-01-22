@@ -646,3 +646,4 @@ Robust Activity at 2024-01-19T11:55:57: Improve model serialization and loading
 Robust Activity at 2024-01-19T11:33:52: Benchmark inference latency across devices
 Robust Activity at 2024-01-19T14:44:30: Fix bug in loss function calculation
 Robust Activity at 2024-01-19T12:17:23: Add unit tests for core modules
+Robust Activity at 2024-01-22T09:13:56: Refactor data loader for faster training
