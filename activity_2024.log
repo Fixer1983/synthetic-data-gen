@@ -64,3 +64,4 @@
 2024 Activity at 2024-01-25T18:31:28: Add support for multi-GPU training via DDP
 2024 Activity at 2024-01-25T12:09:35: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-25T12:58:29: Improve documentation for REST API endpoints
+2024 Activity at 2024-01-25T19:51:29: Benchmark inference latency across multiple devices
