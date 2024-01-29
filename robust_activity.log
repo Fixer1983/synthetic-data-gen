@@ -661,3 +661,4 @@ Robust Activity at 2024-01-26T10:59:54: Merge feature branch into main
 Robust Activity at 2024-01-26T12:56:41: Add support for multi-GPU training
 Robust Activity at 2024-01-26T17:23:26: Add support for transformer-based models
 Robust Activity at 2024-01-26T09:51:00: Fix race condition in data pipeline
+Robust Activity at 2024-01-29T10:46:36: Benchmark inference latency across devices
