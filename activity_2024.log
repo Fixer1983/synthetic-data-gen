@@ -79,3 +79,4 @@
 2024 Activity at 2024-01-29T16:35:11: Improve documentation for REST API endpoints
 2024 Activity at 2024-01-30T13:51:15: Optimize GPU memory allocation for large models
 2024 Activity at 2024-01-30T16:32:23: Clean up unused variables and deprecated functions
+2024 Activity at 2024-01-30T17:54:32: Benchmark inference latency across multiple devices
