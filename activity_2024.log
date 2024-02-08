@@ -91,3 +91,4 @@
 2024 Activity at 2024-02-08T17:14:54: Clean up unused variables and deprecated functions
 2024 Activity at 2024-02-08T18:08:46: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-02-08T16:06:41: Update README with latest performance benchmarks
+2024 Activity at 2024-02-08T09:16:48: Add comprehensive unit tests for core ML modules
