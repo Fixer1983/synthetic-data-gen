@@ -130,3 +130,4 @@
 2024 Activity at 2024-02-27T13:44:19: Improve model serialization and loading efficiency
 2024 Activity at 2024-02-27T11:28:36: Improve model serialization and loading efficiency
 2024 Activity at 2024-03-01T09:10:04: Benchmark inference latency across multiple devices
+2024 Activity at 2024-03-04T17:06:57: Refactor data loading pipeline for higher throughput
