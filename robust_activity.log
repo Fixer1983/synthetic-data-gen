@@ -762,3 +762,4 @@ Robust Activity at 2024-03-13T10:04:48: Improve model serialization and loading
 Robust Activity at 2024-03-13T12:24:37: Implement early stopping in training loop
 Robust Activity at 2024-03-13T09:57:48: Add unit tests for core modules
 Robust Activity at 2024-03-13T13:47:21: Improve documentation for API endpoints
+Robust Activity at 2024-03-13T14:12:45: Add support for transformer-based models
