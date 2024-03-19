@@ -766,3 +766,4 @@ Robust Activity at 2024-03-13T14:12:45: Add support for transformer-based models
 Robust Activity at 2024-03-15T16:04:29: Update README with new performance metrics
 Robust Activity at 2024-03-15T13:07:08: Fix bug in loss function calculation
 Robust Activity at 2024-03-15T10:19:16: Address code review feedback
+Robust Activity at 2024-03-19T09:37:04: Benchmark inference latency across devices
