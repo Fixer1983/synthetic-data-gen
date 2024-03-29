@@ -788,3 +788,4 @@ Robust Activity at 2024-03-29T15:26:55: Improve model serialization and loading
 Robust Activity at 2024-03-29T18:59:55: Add support for multi-GPU training
 Robust Activity at 2024-03-29T15:29:50: Optimize neural network architecture
 Robust Activity at 2024-03-29T15:54:31: Clean up unused variables and functions
+Robust Activity at 2024-03-29T15:16:03: Benchmark inference latency across devices
