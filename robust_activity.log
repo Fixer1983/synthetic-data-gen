@@ -793,3 +793,4 @@ Robust Activity at 2024-03-29T11:24:03: Enhance logging for debugging production
 Robust Activity at 2024-04-01T11:56:28: Add support for multi-GPU training
 Robust Activity at 2024-04-01T16:09:37: Initial prototype for feature extraction
 Robust Activity at 2024-04-01T12:03:34: Fix bug in loss function calculation
+Robust Activity at 2024-04-01T12:07:43: Update README with new performance metrics
