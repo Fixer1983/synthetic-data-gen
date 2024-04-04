@@ -214,3 +214,4 @@
 2024 Activity at 2024-04-03T10:16:09: Add comprehensive unit tests for core ML modules
 2024 Activity at 2024-04-04T12:41:46: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-04-04T11:21:30: Add support for transformer-based models in inference
+2024 Activity at 2024-04-04T19:20:09: Add support for multi-GPU training via DDP
