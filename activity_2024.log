@@ -243,3 +243,4 @@
 2024 Activity at 2024-04-10T18:00:55: Add support for transformer-based models in inference
 2024 Activity at 2024-04-10T16:35:02: Clean up unused variables and deprecated functions
 2024 Activity at 2024-04-12T19:50:05: Update README with latest performance benchmarks
+2024 Activity at 2024-04-12T09:25:34: Add support for multi-GPU training via DDP
