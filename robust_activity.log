@@ -816,3 +816,4 @@ Robust Activity at 2024-04-12T09:44:13: Fix bug in loss function calculation
 Robust Activity at 2024-04-16T11:49:33: Add unit tests for core modules
 Robust Activity at 2024-04-16T09:04:05: Update README with new performance metrics
 Robust Activity at 2024-04-16T13:11:39: Add support for transformer-based models
+Robust Activity at 2024-04-16T12:15:11: Improve documentation for API endpoints
