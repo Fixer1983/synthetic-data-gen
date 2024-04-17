@@ -261,3 +261,4 @@
 2024 Activity at 2024-04-17T14:10:48: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-04-17T17:41:14: Fix potential race condition in the data pipeline
 2024 Activity at 2024-04-17T17:54:44: Initial prototype for feature extraction in real-time
+2024 Activity at 2024-04-17T14:32:26: Add support for transformer-based models in inference
