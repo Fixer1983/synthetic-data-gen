@@ -270,3 +270,4 @@
 2024 Activity at 2024-04-18T19:08:25: Merge feature branch into main for the next release
 2024 Activity at 2024-04-18T12:40:03: Enhance logging for debugging production-level issues
 2024 Activity at 2024-04-18T17:40:56: Enhance logging for debugging production-level issues
+2024 Activity at 2024-04-18T09:35:36: Add support for multi-GPU training via DDP
