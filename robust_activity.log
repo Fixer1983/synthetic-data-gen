@@ -853,3 +853,4 @@ Robust Activity at 2024-05-06T10:14:25: Clean up unused variables and functions
 Robust Activity at 2024-05-06T09:11:24: Improve documentation for API endpoints
 Robust Activity at 2024-05-06T10:14:15: Add unit tests for core modules
 Robust Activity at 2024-05-07T13:36:25: Improve documentation for API endpoints
+Robust Activity at 2024-05-07T09:15:57: Benchmark inference latency across devices
