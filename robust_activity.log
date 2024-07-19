@@ -946,3 +946,4 @@ Robust Activity at 2024-07-16T11:35:41: Add unit tests for core modules
 Robust Activity at 2024-07-16T17:09:55: Optimize neural network architecture
 Robust Activity at 2024-07-19T16:32:26: Initial prototype for feature extraction
 Robust Activity at 2024-07-19T18:49:15: Implement early stopping in training loop
+Robust Activity at 2024-07-19T09:03:53: Clean up unused variables and functions
