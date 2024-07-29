@@ -971,3 +971,4 @@ Robust Activity at 2024-07-29T18:13:41: Fix bug in loss function calculation
 Robust Activity at 2024-07-29T17:07:44: Update README with new performance metrics
 Robust Activity at 2024-07-29T09:42:40: Add support for multi-GPU training
 Robust Activity at 2024-07-29T18:02:14: Add support for multi-GPU training
+Robust Activity at 2024-07-29T13:34:54: Refactor data loader for faster training
