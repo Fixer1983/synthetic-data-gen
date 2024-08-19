@@ -1003,3 +1003,4 @@ Robust Activity at 2024-08-15T15:21:09: Sync with upstream repository changes
 Robust Activity at 2024-08-19T14:39:39: Sync with upstream repository changes
 Robust Activity at 2024-08-19T14:14:42: Add support for transformer-based models
 Robust Activity at 2024-08-19T14:09:41: Benchmark inference latency across devices
+Robust Activity at 2024-08-19T18:31:28: Clean up unused variables and functions
