@@ -1065,3 +1065,4 @@ Robust Activity at 2024-09-19T12:51:19: Update README with new performance metri
 Robust Activity at 2024-09-24T13:00:38: Initial prototype for feature extraction
 Robust Activity at 2024-09-24T11:50:07: Initial prototype for feature extraction
 Robust Activity at 2024-09-24T11:42:27: Improve model serialization and loading
+Robust Activity at 2024-09-24T13:45:14: Add unit tests for core modules
