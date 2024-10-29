@@ -1120,3 +1120,4 @@ Robust Activity at 2024-10-23T15:51:49: Address code review feedback
 Robust Activity at 2024-10-23T12:21:24: Implement early stopping in training loop
 Robust Activity at 2024-10-24T10:31:59: Fix bug in loss function calculation
 Robust Activity at 2024-10-24T13:27:00: Update README with new performance metrics
+Robust Activity at 2024-10-29T15:06:59: Add support for transformer-based models
