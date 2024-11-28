@@ -1177,3 +1177,4 @@ Robust Activity at 2024-11-26T11:30:48: Add unit tests for core modules
 Robust Activity at 2024-11-26T11:53:06: Fix bug in loss function calculation
 Robust Activity at 2024-11-28T14:08:25: Fix bug in loss function calculation
 Robust Activity at 2024-11-28T15:35:31: Address code review feedback
+Robust Activity at 2024-11-28T12:37:52: Implement early stopping in training loop
