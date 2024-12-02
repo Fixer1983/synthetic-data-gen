@@ -1184,3 +1184,4 @@ Robust Activity at 2024-11-28T09:08:08: Add support for transformer-based models
 Robust Activity at 2024-12-02T12:13:14: Merge feature branch into main
 Robust Activity at 2024-12-02T10:35:33: Add support for transformer-based models
 Robust Activity at 2024-12-02T15:34:41: Fix race condition in data pipeline
+Robust Activity at 2024-12-02T14:18:21: Improve documentation for API endpoints
