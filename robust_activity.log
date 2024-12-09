@@ -1196,3 +1196,4 @@ Robust Activity at 2024-12-06T13:02:21: Benchmark inference latency across devic
 Robust Activity at 2024-12-06T13:00:26: Update dependencies to latest stable versions
 Robust Activity at 2024-12-09T18:51:49: Clean up unused variables and functions
 Robust Activity at 2024-12-09T14:28:13: Improve model serialization and loading
+Robust Activity at 2024-12-09T17:01:06: Improve documentation for API endpoints
