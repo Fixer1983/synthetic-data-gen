@@ -1217,3 +1217,4 @@ Robust Activity at 2024-12-16T09:22:42: Optimize GPU memory allocation
 Robust Activity at 2024-12-17T09:00:04: Fix bug in loss function calculation
 Robust Activity at 2024-12-17T17:06:06: Optimize GPU memory allocation
 Robust Activity at 2024-12-17T13:34:43: Improve documentation for API endpoints
+Robust Activity at 2024-12-17T11:03:42: Add unit tests for core modules
