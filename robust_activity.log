@@ -1221,3 +1221,4 @@ Robust Activity at 2024-12-17T11:03:42: Add unit tests for core modules
 Robust Activity at 2024-12-23T12:10:20: Optimize GPU memory allocation
 Robust Activity at 2024-12-23T13:33:53: Optimize neural network architecture
 Robust Activity at 2024-12-24T15:00:39: Merge feature branch into main
+Robust Activity at 2024-12-24T14:44:24: Benchmark inference latency across devices
