@@ -1233,3 +1233,4 @@ Robust Activity at 2024-12-30T15:47:40: Initial prototype for feature extraction
 Robust Activity at 2024-12-30T11:12:39: Add unit tests for core modules
 Robust Activity at 2024-12-31T12:38:15: Improve documentation for API endpoints
 Robust Activity at 2024-12-31T12:49:24: Refactor data loader for faster training
+Robust Activity at 2025-01-03T15:28:39: Benchmark inference latency across devices
