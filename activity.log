@@ -229,3 +229,4 @@ Activity at 2025-01-14T12:59:33: Update documentation for RAG implementation
 Activity at 2025-01-14T10:22:04: Optimize memory usage in LLM deployment
 Activity at 2025-01-14T10:04:18: Refactor core ML pipeline for better scalability
 Activity at 2025-01-14T21:17:40: Sync with upstream changes
+Activity at 2025-01-15T18:47:11: Initial research on graph-based RAG
