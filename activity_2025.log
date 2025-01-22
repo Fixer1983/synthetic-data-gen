@@ -47,3 +47,4 @@
 2025 Activity at 2025-01-21T14:45:23: Improve model serialization for edge deployment
 2025 Activity at 2025-01-22T15:08:13: Update dependencies to 2025 stable versions
 2025 Activity at 2025-01-22T19:07:43: Add support for distributed training across clusters
+2025 Activity at 2025-01-22T18:45:39: Benchmark inference throughput on latest hardware
