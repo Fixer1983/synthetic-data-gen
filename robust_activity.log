@@ -1303,3 +1303,4 @@ Robust Activity at 2025-02-19T15:58:25: Fix race condition in data pipeline
 Robust Activity at 2025-02-19T09:10:24: Refactor data loader for faster training
 Robust Activity at 2025-02-19T18:33:37: Initial prototype for feature extraction
 Robust Activity at 2025-02-20T15:57:34: Merge feature branch into main
+Robust Activity at 2025-02-20T15:21:38: Fix bug in loss function calculation
