@@ -1324,3 +1324,4 @@ Robust Activity at 2025-02-27T10:54:28: Fix race condition in data pipeline
 Robust Activity at 2025-02-27T10:30:00: Add unit tests for core modules
 Robust Activity at 2025-02-27T16:34:36: Merge feature branch into main
 Robust Activity at 2025-02-27T16:47:11: Benchmark inference latency across devices
+Robust Activity at 2025-02-27T18:27:18: Clean up unused variables and functions
