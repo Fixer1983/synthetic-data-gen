@@ -1372,3 +1372,4 @@ Robust Activity at 2025-03-25T11:15:56: Initial prototype for feature extraction
 Robust Activity at 2025-03-25T11:24:07: Enhance logging for debugging production issues
 Robust Activity at 2025-03-25T16:56:53: Improve documentation for API endpoints
 Robust Activity at 2025-03-25T11:31:11: Benchmark inference latency across devices
+Robust Activity at 2025-03-27T15:16:56: Add unit tests for core modules
