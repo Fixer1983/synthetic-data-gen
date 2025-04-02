@@ -262,3 +262,4 @@
 2025 Activity at 2025-04-02T18:57:30: Update README with 2025 performance benchmarks
 2025 Activity at 2025-04-02T13:52:43: Update dependencies to 2025 stable versions
 2025 Activity at 2025-04-02T16:39:19: Add support for multimodal models in inference engine
+2025 Activity at 2025-04-02T16:13:53: Add comprehensive integration tests for core modules
