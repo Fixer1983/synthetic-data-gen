@@ -264,3 +264,4 @@
 2025 Activity at 2025-04-02T16:39:19: Add support for multimodal models in inference engine
 2025 Activity at 2025-04-02T16:13:53: Add comprehensive integration tests for core modules
 2025 Activity at 2025-04-02T11:40:59: Update documentation for new LLMOps features
+2025 Activity at 2025-04-02T14:18:16: Update dependencies to 2025 stable versions
