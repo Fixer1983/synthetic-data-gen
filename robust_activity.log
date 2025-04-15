@@ -1407,3 +1407,4 @@ Robust Activity at 2025-04-14T13:14:51: Add unit tests for core modules
 Robust Activity at 2025-04-14T17:27:07: Fix bug in loss function calculation
 Robust Activity at 2025-04-14T14:11:57: Initial prototype for feature extraction
 Robust Activity at 2025-04-15T18:14:10: Add support for multi-GPU training
+Robust Activity at 2025-04-15T17:49:23: Enhance logging for debugging production issues
