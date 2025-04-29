@@ -1447,3 +1447,4 @@ Robust Activity at 2025-04-28T16:59:26: Implement early stopping in training loo
 Robust Activity at 2025-04-28T09:10:00: Update dependencies to latest stable versions
 Robust Activity at 2025-04-29T09:24:39: Add unit tests for core modules
 Robust Activity at 2025-04-29T16:34:41: Merge feature branch into main
+Robust Activity at 2025-04-29T15:11:59: Optimize GPU memory allocation
