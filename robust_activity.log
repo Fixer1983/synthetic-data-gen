@@ -1455,3 +1455,4 @@ Robust Activity at 2025-05-01T09:05:17: Enhance logging for debugging production
 Robust Activity at 2025-05-01T11:06:12: Address code review feedback
 Robust Activity at 2025-05-02T13:47:09: Initial prototype for feature extraction
 Robust Activity at 2025-05-02T14:20:55: Benchmark inference latency across devices
+Robust Activity at 2025-05-02T13:13:43: Clean up unused variables and functions
