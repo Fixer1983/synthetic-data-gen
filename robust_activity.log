@@ -1463,3 +1463,4 @@ Robust Activity at 2025-05-06T12:03:35: Sync with upstream repository changes
 Robust Activity at 2025-05-06T18:35:22: Fix bug in loss function calculation
 Robust Activity at 2025-05-06T11:53:58: Refactor data loader for faster training
 Robust Activity at 2025-05-06T11:31:10: Update README with new performance metrics
+Robust Activity at 2025-05-07T16:26:02: Clean up unused variables and functions
