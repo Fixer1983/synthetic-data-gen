@@ -1521,3 +1521,4 @@ Robust Activity at 2025-06-02T15:08:18: Fix bug in loss function calculation
 Robust Activity at 2025-06-02T09:40:12: Improve documentation for API endpoints
 Robust Activity at 2025-06-02T18:33:46: Refactor data loader for faster training
 Robust Activity at 2025-06-02T09:09:50: Benchmark inference latency across devices
+Robust Activity at 2025-06-04T11:24:01: Clean up unused variables and functions
