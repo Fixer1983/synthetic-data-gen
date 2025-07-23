@@ -1613,3 +1613,4 @@ Robust Activity at 2025-07-21T11:03:18: Merge feature branch into main
 Robust Activity at 2025-07-22T18:53:04: Initial prototype for feature extraction
 Robust Activity at 2025-07-22T09:15:13: Add support for multi-GPU training
 Robust Activity at 2025-07-22T14:34:49: Refactor data loader for faster training
+Robust Activity at 2025-07-23T18:46:48: Benchmark inference latency across devices
