@@ -1621,3 +1621,4 @@ Robust Activity at 2025-07-24T12:29:37: Add support for multi-GPU training
 Robust Activity at 2025-07-24T12:24:45: Add support for multi-GPU training
 Robust Activity at 2025-07-24T09:04:52: Optimize GPU memory allocation
 Robust Activity at 2025-07-24T11:48:39: Improve documentation for API endpoints
+Robust Activity at 2025-07-24T09:45:18: Add unit tests for core modules
