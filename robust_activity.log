@@ -1655,3 +1655,4 @@ Robust Activity at 2025-08-12T13:50:14: Add support for transformer-based models
 Robust Activity at 2025-08-12T10:44:45: Update README with new performance metrics
 Robust Activity at 2025-08-14T13:58:26: Address code review feedback
 Robust Activity at 2025-08-14T18:42:06: Merge feature branch into main
+Robust Activity at 2025-08-14T18:55:18: Benchmark inference latency across devices
