@@ -1821,3 +1821,4 @@ Robust Activity at 2025-11-05T16:30:16: Add support for transformer-based models
 Robust Activity at 2025-11-05T18:14:36: Benchmark inference latency across devices
 Robust Activity at 2025-11-06T18:24:30: Refactor data loader for faster training
 Robust Activity at 2025-11-06T15:41:19: Sync with upstream repository changes
+Robust Activity at 2025-11-06T16:22:07: Benchmark inference latency across devices
