@@ -1843,3 +1843,4 @@ Robust Activity at 2025-11-17T17:06:17: Optimize GPU memory allocation
 Robust Activity at 2025-11-19T10:12:15: Refactor data loader for faster training
 Robust Activity at 2025-11-19T11:53:28: Add support for multi-GPU training
 Robust Activity at 2025-11-19T12:26:23: Merge feature branch into main
+Robust Activity at 2025-11-19T14:41:06: Improve documentation for API endpoints
