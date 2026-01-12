@@ -1909,3 +1909,4 @@ Robust Activity at 2026-01-09T14:01:31: Sync with upstream repository changes
 Robust Activity at 2026-01-09T14:50:35: Add support for transformer-based models
 Robust Activity at 2026-01-09T18:57:18: Update README with new performance metrics
 Robust Activity at 2026-01-12T09:59:16: Enhance logging for debugging production issues
+Robust Activity at 2026-01-12T11:38:41: Clean up unused variables and functions
