@@ -2003,3 +2003,4 @@ Robust Activity at 2026-03-13T15:10:28: Improve model serialization and loading
 Robust Activity at 2026-03-18T11:01:46: Fix bug in loss function calculation
 Robust Activity at 2026-03-18T13:18:22: Enhance logging for debugging production issues
 Robust Activity at 2026-03-18T18:01:08: Add support for transformer-based models
+Robust Activity at 2026-03-18T10:32:01: Add unit tests for core modules
