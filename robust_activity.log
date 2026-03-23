@@ -2008,3 +2008,4 @@ Robust Activity at 2026-03-20T09:30:07: Improve model serialization and loading
 Robust Activity at 2026-03-20T13:32:35: Clean up unused variables and functions
 Robust Activity at 2026-03-20T14:22:03: Merge feature branch into main
 Robust Activity at 2026-03-20T18:31:36: Benchmark inference latency across devices
+Robust Activity at 2026-03-23T16:19:13: Improve documentation for API endpoints
