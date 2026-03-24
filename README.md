@@ -1,0 +1,1 @@
+# synthetic-data-gen\n\nScalable synthetic data generation for training robust ML models.\n\n![Go](https://img.shields.io/badge/language-Go-blue)\n\n## Run\n```bash\ngo run main.go\n```
